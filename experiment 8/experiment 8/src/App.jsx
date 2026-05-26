@@ -10,6 +10,8 @@ function App() {
       <div className="card">
 
         <h1>React Counter Application</h1>
+         <h4>RAHUL DHAKA</h4>
+         <h4>2503201000887</h4>
 
         <h2>{count}</h2>
 
@@ -33,8 +35,10 @@ function App() {
         </button>
 
       </div>
+     
 
     </div>
+    
   );
 }
 
